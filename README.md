@@ -35,10 +35,8 @@ const harsh = {
   role: "Software Engineer Intern @ Krumos Tech LLP",
   location: "Raipur, Chhattisgarh, India 🇮🇳",
   education: "B.Tech in Computer Science (AI), Expected 2027",
-  currentlyBuilding: "Almirah PM: multi-tenant real-time project management SaaS",
   strengths: ["Scalable REST APIs", "Auth & RBAC", "Relational DB design", "Clean Architecture"],
   languages: ["English", "Hindi"],
-  funFact: "I believe good code is boring, predictable, and easy to delete.",
 } as const;
 ```
 
